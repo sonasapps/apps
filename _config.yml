@@ -9,6 +9,7 @@ plainwhite:
   portfolio_image_dark: "assets/rakTech-logo-dark.png"
   dark_mode: true
 
+show_excerpts: true
 
 #  social_links:
   #  twitter: thatvirtualboy
