@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Virtual Backgrounds
 tags: iOS, iPadOS, macOS
 ---
