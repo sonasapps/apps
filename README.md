@@ -6,7 +6,7 @@ Minimize clutter by storing digital records of your kids' artwork
 <img src="assets/promo2.png" width="300">
 
 ## Virtual Backgrounds
-Step up your virtual pesence with these hand-picked backgrounds  
+Step up your virtual presence with these hand-picked backgrounds  
 
 <img src="assets/vbmacos.png" width="300">
 
