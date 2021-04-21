@@ -1,7 +1,5 @@
 #theme: jekyll-theme-cayman
 remote_theme: samarsault/plainwhite-jekyll
-plugins:
-  - jekyll-feed
 
 plainwhite:
   #name: rakTech
