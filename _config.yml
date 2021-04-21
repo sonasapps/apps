@@ -2,10 +2,12 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
-  name: rakTech
+  #name: rakTech
   tagline: Apps by @thatvirtualboy
   date_format: "%b %-d, %Y"
   portfolio_image:  "assets/rakTech-logo.png" # the path from the base directory of the site to the image to display (no / at the start)
+  dark_mode: true
 
+  
   social_links:
     twitter: thatvirtualboy
