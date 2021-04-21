@@ -2,7 +2,7 @@
 
 ## Artbox
 Minimize clutter by storing digital records of your kids' artwork
-![](assets/promo2.png =250x)
+<img src="assets/promo2.png" width="200">
 
 ## Virtual Backgrounds
 ![](assets/vbmacos.png)
