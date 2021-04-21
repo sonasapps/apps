@@ -1,11 +1,14 @@
 # rakTech LLC
 
 ## Artbox
-Minimize clutter by storing digital records of your kids' artwork
-<img src="assets/promo2.png" width="200">
+Minimize clutter by storing digital records of your kids' artwork  
+
+<img src="assets/promo2.png" width="300">
 
 ## Virtual Backgrounds
-![](assets/vbmacos.png)
+Step up your virtual pesence with these hand-picked backgrounds  
+
+<img src="assets/vbmacos.png" width="300">
 
 ## Sonas Chef Journal
 ![](assets/chef.png)
