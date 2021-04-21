@@ -1,6 +1,5 @@
 ---
 title: Stickers About Nothing
-date: 2020-06-20
 ---
-Minimize clutter by storing a digital records of your kids' artwork  
-![](assets/artbox-icon.png)(https://artbox.app)
+A Sticker Pack for the rest of us
+[![Stickers](assets/stickers-icon.png "Go To Sticker Pack")](https://sonasapps.github.io/stickers-about-nothing/)

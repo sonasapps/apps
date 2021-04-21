@@ -1,6 +1,5 @@
 ---
 title: Virtual Backgrounds
-date: 2020-06-20
 ---
-Minimize clutter by storing a digital records of your kids' artwork  
-![](assets/artbox-icon.png)(https://artbox.app)
+Step up your virtual presence with these hand-picked backgrounds
+[![Backgrounds](assets/vb-icon.png "Go To Virtual Backgrounds")](https://sonasapps.github.io/vitualbackgrounds/)
