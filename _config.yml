@@ -8,6 +8,9 @@ plainwhite:
   portfolio_image:  "assets/rakTech-logo.png" # the path from the base directory of the site to the image to display (no / at the start)
   portfolio_image_dark: "assets/rakTech-logo-dark.png"
   dark_mode: true
+  
+  plugins:
+  - jekyll-seo-tag
 
 show_excerpts: true
 
