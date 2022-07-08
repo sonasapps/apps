@@ -58,6 +58,9 @@ This App is controlled by rakTech LLC from within the United States of America. 
 
 You agree that no joint venture, partnership, employment, or agency relationship exists between you and rakTech LLC as a result of the Terms or your use of the App. The Terms constitute the entire agreement between you and rakTech LLC with respect to your use of the App. My failure to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect. You may not assign, delegate or otherwise transfer your account or your obligations under these Terms without the prior written consent of us. I have the right, in its sole discretion, to transfer or assign all or any part of its rights under these Terms and will have the right to delegate or use third party contractors to fulfill its duties and obligations under these Terms and in connection with the App. Our notice to you via email, regular mail, or notices or links on the App shall constitute acceptable notice to you under the Terms. A printed version of the Terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to the Terms to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. Section titles and headings in the Terms are for convenience only and have no legal or contractual effect. Any rights not expressly granted herein are reserved.
 
+<br>
+<br>
+
 # Privacy Policy
 #### Last Updated July 7, 2022
 ![](/assets/privacy-handshake-icon.png)
