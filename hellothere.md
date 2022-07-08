@@ -65,7 +65,7 @@ You agree that no joint venture, partnership, employment, or agency relationship
 
 # Privacy Policy
 #### Last Updated July 7, 2022
-![](/assets/privacy-handshake-icon.png)
+![](/assets/privacy-handshake-icon.png)  
 Hello There and its developer take your privacy seriously. That is why no personally identifiable information is ever collected. Hello There does not sell, and never will sell, any user data. The only data that is collected is basic app usage statistics in order to help make the app better. 
 
 When you use Hello There, you are asked to create folders for cards and add text, dates, and featured photos. Additionally when you add cards, you enter a picture and description. None of this data is ever collected or sent outside of your device or iCloud account. This information is yours and yours alone. If you don't want to store your Hello There data in iCloud, you must disable iCloud Sync for Hello There in your devices's settings.
