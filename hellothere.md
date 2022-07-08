@@ -12,3 +12,10 @@ Birthdays, Anniveraries, Holidays... the list goes on and on of occasions that w
 Hello There lets you store these cards right on your iPhone and iPad. Cards are organized into folders by occasion, and contain images of the card, description text, and the date it was received. 
 
 Utilizing the latest iOS 16 SDKs like Charts, Lock Screen Widgets, Live Text, and others, Hello There is the most advanced solution for keeping your cards with you at all times.
+
+
+## Terms of Use
+#### Last Updated July 7, 2022
+
+## Privacy Policy
+#### Last Updated July 7, 2022
