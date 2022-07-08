@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello There - Greeting Cards
+# Hello There - Greeting Cards (coming soon)
 Keep your cards forever
 
 Built exclusively for iOS 16+, Hello There is the solution to *what to do with greeting cards from friends and family.*
