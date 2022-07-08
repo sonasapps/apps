@@ -13,6 +13,8 @@ Hello There lets you store these cards right on your iPhone and iPad. Cards are 
 
 Utilizing the latest iOS 16 SDKs like Charts, Lock Screen Widgets, Live Text, and others, Hello There is the most advanced solution for keeping your cards with you at all times.
 
+<br>
+<br>
 
 # Terms of Use
 #### Last Updated July 7, 2022
